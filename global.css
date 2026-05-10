@@ -1,0 +1,27 @@
+.banner {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.72) -2.54%,
+      rgba(0, 0, 0, 0) 49.71%,
+      rgba(0, 0, 0, 0.72) 101.95%
+    ),
+    url("assets/images/background/banner1.png");
+  background-size: auto 50%;
+  background-repeat: no-repeat;
+}
+
+.bg-gr2 {
+  background:
+    linear-gradient(219.5deg, rgba(0, 0, 0, 0.56) 24.49%, rgba(0, 0, 0, 0) 95%),
+    url("assets/images/background/background2.png");
+}
+
+button {
+  cursor: pointer;
+}
+
+p {
+  text-align: justify;
+  line-height: 180%;
+}
